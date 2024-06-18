@@ -1,12 +1,12 @@
 # ONFA Wallet Assets Info
 <p dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://onfa.io/templates/images/logo.webp">
-<img src="https://onfa.io/templates/images/logo.webp" alt="ONFA" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://onfa.io">
+<img src="https://onfa.io/templates/images/logo.webp" alt="ONFA" style="max-width: 100%; width:100px; text-align: center;">
 </a>
 </p>
 
-Url Smart Contract BEP20: <a target="_blank" rel="noopener noreferrer" href="https://bscscan.com/token/0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126"></a>
-
+Url Smart Contract BEP20: https://bscscan.com/token/0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126
+Url NFT Contract: https://polygonscan.com/token/0x297c6470cc7a3fe5cf8e5d977c33a2d4b4d9b126
 ## Disclaimer
 
 ONFA Wallet team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
