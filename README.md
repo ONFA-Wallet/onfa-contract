@@ -1,7 +1,7 @@
 # ONFA Wallet Assets Info
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://onfa.io">
-<img src="https://onfa.io/templates/images/logo.webp?v_1" alt="ONFA" style="max-width: 100%; width:100px; text-align: center;">
+<img src="https://onfa.io/templates/images/logo.webp?v_1" alt="ONFA" style="max-width: 100%; width:200px; text-align: center;">
 </a>
 </p>
 
