@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ONFANFT.sol": "Strings"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ONFANFT.sol": {
+			"keccak256": "0x09da0007dbff770a2c35c758473bb0a51307ffc5e510fdb751a0e92362ee53e2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a282cf2f2afab4fc7fdb5e51e5e7eaf7ab3f197c07fe0f6b4a4ea571c168c194",
+				"dweb:/ipfs/Qmci6ivKWojfnd6uZAMjrwghBs6jF8MP692TcKPzQXA5w4"
+			]
+		}
+	},
+	"version": 1
+}

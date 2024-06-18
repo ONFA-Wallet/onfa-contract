@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/BSCOFT.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/BSCOFT.sol": {
+			"keccak256": "0xab5f9aa94244fc53c0cbf24f36e9d733913b8dbd8ba92e66b8120e7e654e23a4",
+			"urls": [
+				"bzz-raw://f4d9e8262e1ef27c79fa447f7caba03b26886aacb3789f8853fbc7ee9a33607c",
+				"dweb:/ipfs/QmPupUvWRUAvmHYDdLdnjG8WxgfhAZGkn46zsbaVFZvyRP"
+			]
+		}
+	},
+	"version": 1
+}
